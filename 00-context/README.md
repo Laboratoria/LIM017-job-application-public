@@ -92,6 +92,8 @@ ellas y el equipo de Laboratoria.
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
+Fechas sujetas a modificación. 
+
 |                    Actividades                      |   Tipo   | Semana   | Día/hora |
 |-----------------------------------------------------|----------|----------|---------:|
 | Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   | del 23 al 27 de mayo       | por definir         |
