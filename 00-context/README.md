@@ -72,9 +72,6 @@ humanos**, invertirán alrededor de _5 y 6 horas en total_ para gestionar y
 realizar sesiones con las estudiantes, así como para documentar feedback para
 ellas y el equipo de Laboratoria.
 
-* 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
- Laboratoria para resolver sus dudas sobre la dinámica y en la que no
- participarán aún las estudiantes.
 * 2 sesiones de revisión y feedback de herramientas (1 sesión para el CV y 1 sesión para el LinkedIn)con la primera estudiante
  que te hayamos asignado como mentee. 
   - Sesión 1: _Meet & greet_ + revisión y feedback de CV. Espacio programado por
@@ -97,11 +94,10 @@ revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   | Día/hora |
 |-----------------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
-| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |          |          |
-| Sesión de revisión y feedback de LinkedIn.          | Abierta  |          |          |
-| Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
-| Envío de formulario de feedback al equipo           | Abierta  |          |          |
+| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   | del 23 al 27 de mayo       | por definir         |
+| Sesión de revisión y feedback de LinkedIn.          | Abierta  | del 30 de mayo al 3 de junio         |          |
+| Simulación de entrevista de recursos humanos.       | Abierta  | del 6 de junio al 17 de junio        |          |
+| Envío de formulario de feedback al equipo           | Abierta  | hasta el 20 de junio          |          |
 
 ## Mentorías Técnicas 
 
