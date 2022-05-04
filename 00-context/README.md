@@ -92,12 +92,12 @@ ellas y el equipo de Laboratoria.
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
-|                    Actividades                      |   Tipo   | Semana   |Día/hora |
-|-----------------------------------------------------|----------|----------|---------:|
-| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |    -   | 23 de mayo 7:00 P.M.|
-| Sesión de revisión y feedback de LinkedIn.          | Abierta  | del 30 de mayo al 3 de junio         |          |
-| Simulación de entrevista de recursos humanos.       | Abierta  | del 6 de junio al 17 de junio        |          |
-| Envío de formulario de feedback al equipo           | Abierta  | hasta el 20 de junio          |          |
+|                    Actividades                      |   Tipo   | Semana   |  Dia/hora  |
+|-----------------------------------------------------|----------|----------|------------|
+| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |  -                                   | 23 de mayo 7:00 P.M. |
+| Sesión de revisión y feedback de LinkedIn.          | Abierta  | del 30 de mayo al 3 de junio         |    |
+| Simulación de entrevista de recursos humanos.       | Abierta  | del 6 de junio al 17 de junio        |       |
+| Envío de formulario de feedback al equipo           | Abierta  | hasta el 20 de junio                 |      |
 
 ## Mentorías Técnicas 
 
