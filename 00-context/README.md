@@ -96,8 +96,9 @@ revisión y feedback de herramientas y con la simulación.**
 |-----------------------------------------------------|----------|----------|------------|
 | Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |  -                                   | 23 de mayo 7:00 P.M. |
 | Sesión de revisión y feedback de LinkedIn.          | Abierta  | del 30 de mayo al 3 de junio         |    |
+| Envío de formulario de feedback cv y LinkedIn      | Fija  | hasta el 10 de junio         |    |
 | Simulación de entrevista de recursos humanos.       | Abierta  | del 6 de junio al 17 de junio        |       |
-| Envío de formulario de feedback al equipo           | Abierta  | hasta el 20 de junio                 |      |
+| Envío de formulario de feedback simulación de entrevista      | Fija  | hasta el 22 de junio                 |      |
 
 ## Mentorías Técnicas 
 
