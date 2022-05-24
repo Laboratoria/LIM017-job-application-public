@@ -121,11 +121,11 @@ simulación y revisión y feedback de su Github profile. Para este apartado
 todavía estamos terminando de definir algunos detalles.
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
-|----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
-| Simulación de entrevista técnica.            | Abierta  |          |          |
-| Envío de feedback escrito a estudiante.      | Abierta  |          |          |
-| Envío de formulario de feedback al equipo.   | Abierta  |          |          |
+|----------------------------------------------|----------|----------|---------|
+| Sesión de Q&A sobre el programa.             |   Fija   | por definir entre el 13 y el 17 de junio          |    por definir      |
+| Simulación de entrevista técnica.            | Abierta  | del 20 de junio al 1 de julio          |          |
+| Envío de feedback escrito a estudiante.      | Fija| hasta el 1 de julio         |          |
+| Envío de formulario de feedback al equipo.   | Fija| hasta el 1 de julio         |          |
 
 ## Consideraciones generales
 
