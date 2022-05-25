@@ -124,8 +124,8 @@ todavía estamos terminando de definir algunos detalles.
 |----------------------------------------------|----------|----------|---------|
 | Sesión de Q&A sobre el programa.             |   Fija   | por definir entre el 13 y el 17 de junio          |    por definir      |
 | Simulación de entrevista técnica.            | Abierta  | del 20 de junio al 1 de julio          |          |
-| Envío de feedback escrito a estudiante.      | Fija| hasta el 1 de julio         |          |
-| Envío de formulario de feedback al equipo.   | Fija| hasta el 1 de julio         |          |
+| Envío de feedback escrito a estudiante.      | Fija| hasta el 4 de julio         |          |
+| Envío de formulario de feedback al equipo.   | Fija| hasta el 4 de julio         |          |
 
 ## Consideraciones generales
 
