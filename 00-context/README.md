@@ -122,7 +122,7 @@ todavía estamos terminando de definir algunos detalles.
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------|
-| Sesión de Q&A sobre el programa.             |   Fija   |           |    Lunes 13 de junio 7 P.M.   |
+| Sesión de Q&A sobre el programa.             |   Fija   |           |    Lunes 20 de junio 7 P.M.   |
 | Simulación de entrevista técnica.            | Abierta  | del 20 de junio al 1 de julio          |          |
 | Envío de feedback escrito a estudiante.      | Fija| hasta el 4 de julio         |          |
 | Envío de formulario de feedback al equipo.   | Fija| hasta el 4 de julio         |          |
