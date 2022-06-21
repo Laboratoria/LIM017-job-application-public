@@ -57,6 +57,8 @@ console.log('log 3');
 
 ## Node.js
 
+Aplica para aquellas estudiantes que han desarrollado el proyecto MD LINKS. 
+
 * ¿Qué es Node.js y cómo se diferencia de JavaScript en el explorador?
 
 * Usando tus propias palabras, describe qué es y para que podemos usar el ENVIRONMENT
@@ -106,17 +108,9 @@ console.log('log 3');
   };
   ```
 
-## Docker
-
-* ¿Qué es Docker?
-
-* ¿Qué es una imagen/contenedor en Docker?
-
-* ¿Para qué sirve Docker Compose?
-
-* ¿Pudes describir algunas de las partes típicas de un `docker-compose.yml`?
-
 ## ExpressJS
+
+Aplica para aquellas estudiantes que están desarrollando el proyecto BQ API.
 
 * ¿Qué es ExpressJS?
 
@@ -137,6 +131,8 @@ console.log('log 3');
 * ¿A qué nos referimos cuando hablamos de una API REST o RESTful?
 
 ## HTTP
+
+Aplica para aquellas estudiantes que han desarrollado el proyecto MD LINKS. 
 
 * ¿Cómo describirías un request/response?
 
