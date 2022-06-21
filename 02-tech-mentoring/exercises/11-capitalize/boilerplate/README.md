@@ -11,4 +11,4 @@ capitalize('a lazy fox') // --> 'A Lazy Fox'
 capitalize('look, it is working!') // --> 'Look, It Is Working!'
 ```
 
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/11-capitalize/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/11-capitalize/boilerplate/)

@@ -18,4 +18,4 @@ fizzBuzz(5);
 // -> buzz
 ```
 
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/13-fizzbuzz/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/13-fizzbuzz/boilerplate/)

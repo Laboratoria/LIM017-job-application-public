@@ -46,4 +46,4 @@ el orden en el que se presentaron.
 * Tenemos la garantía de que las consultas de tipo `2` nunca tratarán de acceder
   un arreglo o índice vacíó o no definido.
 
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/15-dynamic-array/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/15-dynamic-array/boilerplate/)

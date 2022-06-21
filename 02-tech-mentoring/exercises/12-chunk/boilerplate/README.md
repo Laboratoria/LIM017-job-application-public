@@ -16,4 +16,4 @@ chunk([1, 2, 3, 4, 5], 4) // --> [[1, 2, 3, 4], [5]]
 chunk([1, 2, 3, 4, 5], 10) // --> [[1, 2, 3, 4, 5]]
 ```
 
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/12-chunk/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/12-chunk/boilerplate/)

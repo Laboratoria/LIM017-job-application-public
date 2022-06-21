@@ -36,4 +36,4 @@ describe('countVowels', () => {
 Tu implementación puede asumir que la función siempre será invocada con un
 string como primer argumento.
 
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/08-count-vowels/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/08-count-vowels/boilerplate/)

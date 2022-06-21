@@ -10,4 +10,4 @@ isPalindrome('neveroddoreven') // returns true
 isPalindrome('stresseddesserts') // returns true
 ````
 
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/07-palindrome/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/07-palindrome/boilerplate/)

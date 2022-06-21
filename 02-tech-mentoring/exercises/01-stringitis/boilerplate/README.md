@@ -21,4 +21,4 @@ string en un arreglo.
 Alternativamente propón una solución que haga uso de `.slice`, `.substring` o
 `.substr`.
 
-## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/cs50/02-tech-mentoring/exercises/01-stringitis/boilerplate/)
+## [Sandbox](https://lab.cs50.io/Laboratoria/job-application-public/main/02-tech-mentoring/exercises/01-stringitis/boilerplate/)
