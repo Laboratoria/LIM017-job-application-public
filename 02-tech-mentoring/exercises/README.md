@@ -1,5 +1,9 @@
 # Ejercicios
 
+Ingresar al link del ejercicio, seguidamente a la carpeta _boilerplate_ y compartir el link de _sandbox_ que aparece en la parte inferior. 
+
+Aceptar CS50 desde la cuenta de GitHub. 
+
 - [**Stringitis**](./01-stringitis)
 
   Dificultad: `fácil` / Etiquetas: `String`
