@@ -21,7 +21,7 @@ simular un escenario _"crítico"_ que puedan encontrar en la vida real.
 Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
 a lo largo de la dinámica. Al final de la entrevista es necesario que envies
 _feedback por correo electrónico_ a las estudiantes sobre su desempeño y llenar
-un [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) con la
+un [_scorecard_](https://forms.gle/eqhxqyZkUCcaUhoL6) con la
 evaluación de la entrevista que solo revisará el equipo de Laboratoria.
 
 Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
@@ -207,7 +207,7 @@ recursos y/o contenidos** si crees que vale la pena que el estudiante se enfoque
 en los puntos que podría mejorar.
 
 2)**Feedback hacia el equipo**, el que realizarás a través de un 
-[_score card_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) que te pedirá evaluar
+[_score card_](https://forms.gle/eqhxqyZkUCcaUhoL6) que te pedirá evaluar
 su desempeño en los distintos aspectos que integran la simulación y dejarnos
 recomendaciones para el equipo.
 
